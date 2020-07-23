@@ -11,6 +11,7 @@ body{
   height: 60%;
   background-color: #F8F8F8;
   box-shadow:  5px 10px #888888;
+  overflow:auto
 }
 
 .App h1{
@@ -33,3 +34,15 @@ body{
   border-bottom: 1px solid #888888;
 }
 .TableDIV tr:hover {background-color: #f5f5f5;}
+
+.ChangeButton
+{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.Coin_Image
+{
+  height: 100px;
+  width: 100px;
+}
